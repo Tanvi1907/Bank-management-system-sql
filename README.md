@@ -1,4 +1,3 @@
-
 # Bank Management System (SQL)
 
 This is a SQL project for managing bank customers and accounts.
@@ -34,3 +33,7 @@ Tanvi Rastogi
 
 5. Audit Log:
    - Table audit_log tracks all operations
+
+
+
+
